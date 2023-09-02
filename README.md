@@ -1,5 +1,6 @@
 
-![image](https://github.com/Juda-Emmanuel/Weather-App/assets/131518624/f852b2f1-4c53-4c2e-a060-bf1215746dd2)
+![image](https://github.com/Juda-Emmanuel/Weather-App/assets/131518624/c4e53dab-3184-4ee3-8fd5-d03c1450a24a)
+
 
 
 

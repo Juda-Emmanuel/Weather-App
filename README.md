@@ -1,7 +1,10 @@
+<img width="1252" alt="image" src="https://github.com/Juda-Emmanuel/Weather-App/assets/131518624/32b03d91-707a-47f9-a5eb-d545f1a09b46">
 
-![image](https://github.com/Juda-Emmanuel/Weather-App/assets/131518624/c4e53dab-3184-4ee3-8fd5-d03c1450a24a)
 <img width="1258" alt="image" src="https://github.com/Juda-Emmanuel/Weather-App/assets/131518624/4e84abb1-7da8-4d0a-a219-347013f1bf2a">
+
 <img width="1257" alt="image" src="https://github.com/Juda-Emmanuel/Weather-App/assets/131518624/7eed97ce-55a7-4a36-9a63-4686bf64ce85">
+
+
 
 
 
